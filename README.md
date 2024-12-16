@@ -1,0 +1,1 @@
+This Python Password Manager uses Tkinter for the GUI and cryptography for secure password storage. It allows users to save, generate, and view encrypted passwords. Passwords are securely stored in a text file, and users can generate strong passwords and load saved passwords with ease. It includes error handling and a dark-themed interface.
